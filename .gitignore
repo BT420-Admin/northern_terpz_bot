@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 *.py[cod]
 bot.log
@@ -5,3 +6,8 @@ feedback_log.txt
 referrals.json
 venv/
 *.env
+=======
+node_modules/
+.env
+*.log
+>>>>>>> 60a4ce09a0469c961e4dd28b5d4cf737b6c58a56
