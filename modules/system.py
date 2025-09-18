@@ -7,7 +7,7 @@ START_TIME = time.time()
 
 async def version(update: Update, context: ContextTypes.DEFAULT_TYPE):
     log_command(update, "version")
-    await update.message.reply_text("Northern Terpz Bot v1.0 — Official Build ✅")
+    await update.message.reply_text("Northern Terpz Bot v1.2 — Official Build ✅")
 
 async def ping(update: Update, context: ContextTypes.DEFAULT_TYPE):
     log_command(update, "ping")

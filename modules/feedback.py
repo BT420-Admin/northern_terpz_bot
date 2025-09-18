@@ -15,7 +15,7 @@ FEEDBACK_FILE = "feedback_log.txt"
 referrals = {}        # { inviter_id: count }
 invite_links = {}     # { invite_link: inviter_id }
 
-BUILD_TAG = "NT-FEEDBACK v1.0"
+BUILD_TAG = "NT-Bot v1.2"
 
 # --- Persistence helpers ---
 def load_data():

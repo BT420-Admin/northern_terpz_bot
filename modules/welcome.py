@@ -27,7 +27,7 @@ async def send_welcome_message(chat_id, context: ContextTypes.DEFAULT_TYPE, user
 
     keyboard = [
         [InlineKeyboardButton("📝 About", callback_data="about_cmd")],
-        [InlineKeyboardButton("🛒 View Menu", callback_data="menu_cmd")],
+        [InlineKeyboardButton("🆘️ Help", callback_data="menu_cmd")],
         [InlineKeyboardButton("🗣 Send Feedback", callback_data="feedback_cmd")]
     ]
 

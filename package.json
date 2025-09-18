@@ -1,6 +1,6 @@
 {
   "name": "my-bot",
-  "version": "1.0.0",
+  "version": "1.2.5",
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +18,7 @@
 bash -c 'cat << "EOF" > package.json
 {
   "name": "my-bot",
-  "version": "1.0.0",
+  "version": "1.2.5",
   "description": "",
   "main": "index.js",
   "scripts": {
